@@ -20,7 +20,6 @@ This project aims to predict user scores on Yelp reviews by building a machine l
   - Developed a model to predict whether a user will give a good, OK, or poor review based on the text.
   - Addressed class imbalance using SMOTE (Synthetic Minority Over-sampling Technique) and `ImbPipeline`.
 
-## Getting Started:
 ### Prerequisites
 - Python 3.x
 - Jupyter Notebook
